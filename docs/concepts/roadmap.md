@@ -46,7 +46,7 @@
 * [ ] (GA) administrator edit ip safely, preventing from race with IPAM CNI, and avoid ip conflicting between ippools
 
 * [ ] (GA) good performance
-  * [ ] take xxx second at most, to assign a ip
+  * [ ] take xxx second at most, to assign an ip
   * [ ] take xxx second at most, to assign 1000 ip
 
 * [ ] (GA) good reliability
